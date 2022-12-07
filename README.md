@@ -5,3 +5,4 @@
   - file with veribles(config)
 2. Word replace app
 3. Simple calculator
+4. Email slicer
