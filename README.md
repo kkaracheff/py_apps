@@ -9,3 +9,4 @@
 5. Binary search algorithm
 6. Quiz program
 7. QR Code generator
+8. Backtesting Stock Trading Strategies
